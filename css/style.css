@@ -264,7 +264,7 @@ font-weight: 700;
 }
 
 .copyright 
-{color: white;
+   { color: #F9FAF8; 
 display: flex;
 font-size: 20px;
 justify-content: center;
